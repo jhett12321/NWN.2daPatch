@@ -1,0 +1,6 @@
+2DA V2.0
+
+           PATCH Corner1 Edge       Corner2 Height Model        
+19         ADD   Wall    Window     Wall    0      TIC01_O20_01 
+20         ADD   Wall    MazeMosaic Wall    0      ZIC01_A51_01 
+21         ADD   Wall    MazeMarble Wall    0      ZIC01_A51_11 

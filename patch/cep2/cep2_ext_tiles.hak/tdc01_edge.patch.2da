@@ -1,0 +1,27 @@
+2DA V2.0
+
+           PATCH Corner1      Edge            Corner2      Height Model        
+13         ADD   GreyFloor    ****            GreyFloor    0      ZDC02_Z01_01 
+14         ADD   GreyFloor    Fence           GreyFloor    0      ZDC02_Z02_01 
+15         ADD   GreyPit      Bridge          GreyPit      0      ZDC02_Z03_01 
+16         ADD   Wall         GreyCorridor    Wall         0      ZDC02_Z04_01 
+17         ADD   GreyFloor    ****            GreyPit      0      ZDC02_Z05_01 
+18         ADD   Wall         ****            GreyPit      0      ZDC02_Z06_01 
+19         ADD   Wall         ****            GreyFloor    0      ZDC02_Z07_01 
+20         ADD   GreyPit      ****            ****         0      ZDC02_Z08_01 
+21         ADD   GreyFloor    ****            ****         0      ZDC02_Z01_01 
+22         ADD   GreyPit      ****            GreyPit      0      ZDC02_Z08_01 
+23         ADD   Pit          ****            GreyPit      0      ZDC02_Z08_01 
+24         ADD   DwarvenFloor ****            DwarvenFloor 0      ZDC03_Z02_01 
+25         ADD   DwarvenFloor Fence           DwarvenFloor 0      ZDC03_Z04_01 
+26         ADD   DwarvenPit   Bridge          DwarvenPit   0      ZDC03_Z05_01 
+27         ADD   Wall         DwarvenCorridor Wall         0      ZDC03_Z06_01 
+28         ADD   DwarvenFloor ****            DwarvenPit   0      ZDC03_Z07_01 
+29         ADD   Wall         ****            DwarvenPit   0      ZDC03_Z08_01 
+30         ADD   Wall         ****            DwarvenFloor 0      ZDC03_Z09_01 
+31         ADD   DwarvenPit   ****            ****         0      ZDC03_Z03_01 
+32         ADD   DwarvenFloor ****            ****         0      ZDC03_Z02_01 
+33         ADD   DwarvenPit   ****            DwarvenPit   0      ZDC03_Z03_01 
+34         ADD   Wall         DwarvenDoorway  Wall         0      ZDC03_Z01_01 
+35         ADD   Wall         ChultDoorway    Wall         0      ZDC04_Z01_01 
+36         ADD   Wall         ChultCorridor   Wall         0      ZDC04_Z06_01 
