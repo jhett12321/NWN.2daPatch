@@ -1,5 +1,0 @@
-2DA V2.0
-
-           PATCH   Label               Model        TileSet TemplateResRef StringRefGame BlockSight VisibleModel SoundAppType 
-2000       REPLACE HalflingDoor_tno01  psm_udoor_02 TNO01   nw_door_ttr_01 16968365      1          1            1            
-2001       REPLACE HalflingDoor2_tno01 tn_sdoor_09  TNO01   nw_door_ttr_19 16968366      1          1            1            
